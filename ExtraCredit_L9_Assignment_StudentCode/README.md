@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 17, 2017
 
 ### Student Name:  
-(First and Last Name)
+Logan Saliga
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I used Apixu API to build a weather app.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://logansaliga.github.io/WeatherChannel/ExtraCredit_L9_Assignment_StudentCode/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that the API key works as a code to identify the calling program, and is secret.
+2. In order to request information from the API server, the user has to enter one of the query parameters.
+3. A request to the API server consists of a base url and the API method.
